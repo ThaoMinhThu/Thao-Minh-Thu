@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Animals';
+    src: url('Animals-Regular.eot');
+    src: url('Animals-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Animals-Regular.woff2') format('woff2'),
+        url('Animals-Regular.woff') format('woff'),
+        url('Animals-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
